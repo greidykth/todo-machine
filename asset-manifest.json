@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/to-do-machine/static/css/main.622097ce.css",
-    "main.js": "/to-do-machine/static/js/main.76c7b7ff.js",
-    "static/media/delete.svg": "/to-do-machine/static/media/delete.c76c663a6d6b92c343a76db726cf8d7b.svg",
-    "static/media/check.svg": "/to-do-machine/static/media/check.1b7256e8b779cbd0e1163f287495170f.svg",
-    "index.html": "/to-do-machine/index.html",
-    "main.622097ce.css.map": "/to-do-machine/static/css/main.622097ce.css.map",
-    "main.76c7b7ff.js.map": "/to-do-machine/static/js/main.76c7b7ff.js.map"
+    "main.css": "/todo-machine/static/css/main.622097ce.css",
+    "main.js": "/todo-machine/static/js/main.e0160f66.js",
+    "static/media/delete.svg": "/todo-machine/static/media/delete.c76c663a6d6b92c343a76db726cf8d7b.svg",
+    "static/media/check.svg": "/todo-machine/static/media/check.1b7256e8b779cbd0e1163f287495170f.svg",
+    "index.html": "/todo-machine/index.html",
+    "main.622097ce.css.map": "/todo-machine/static/css/main.622097ce.css.map",
+    "main.e0160f66.js.map": "/todo-machine/static/js/main.e0160f66.js.map"
   },
   "entrypoints": [
     "static/css/main.622097ce.css",
-    "static/js/main.76c7b7ff.js"
+    "static/js/main.e0160f66.js"
   ]
 }
